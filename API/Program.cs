@@ -1,3 +1,4 @@
+using API.Extensions;
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
@@ -6,6 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
+//creamo el llamando a los controladores (Controller)
+builder.Services.ConfigureCors();
 
 //codigo para llevar a cabo la conexion con la base de dstos
 builder.Services.AddDbContext<ProyectoBackendContext>(optionsBuilder =>
@@ -43,6 +46,8 @@ using (var scope = app.Services.CreateScope())
         logger.LogError(ex, "Ocurrió un error durante la migración");
     }
 }
+
+app.UseCors("CorsPolicy");
 
 app.UseHttpsRedirection();
 

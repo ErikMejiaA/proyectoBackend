@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EXUzdVQ7KrEHqVWvecAKPArP/j0EftF3ldskM7KewVf0E9/fbunkrXAlHrH2dKJCxAjqkPpzZoFO6McbaaCHCA==",
+  "dgSpecHash": "JeMMJ6FtZamO1aohijD8F0MyjsubwYhVr43l9kIWERyZM3+jB4YNVLZ0VEtpee44ddgOGJ8oH6Z86LLV3AEevQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\proyectoBackEnd\\Core\\Core.csproj",
+  "projectFilePath": "D:\\Campus Lat\\programasEntityFrameworkNETCore\\proyectoBackend\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

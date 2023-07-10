@@ -1511,11 +1511,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\proyectoBackEnd\\API\\API.csproj",
+      "projectUniqueName": "D:\\Campus Lat\\programasEntityFrameworkNETCore\\proyectoBackend\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\proyectoBackEnd\\API\\API.csproj",
+      "projectPath": "D:\\Campus Lat\\programasEntityFrameworkNETCore\\proyectoBackend\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\proyectoBackEnd\\API\\obj\\",
+      "outputPath": "D:\\Campus Lat\\programasEntityFrameworkNETCore\\proyectoBackend\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1531,8 +1531,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Usuario\\Desktop\\proyectoBackEnd\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Desktop\\proyectoBackEnd\\Infrastructure\\Infrastructure.csproj"
+            "D:\\Campus Lat\\programasEntityFrameworkNETCore\\proyectoBackend\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\Campus Lat\\programasEntityFrameworkNETCore\\proyectoBackend\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

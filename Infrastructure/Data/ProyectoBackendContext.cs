@@ -6,7 +6,7 @@ namespace Infrastructure.Data;
 
 public class ProyectoBackendContext : DbContext
 {
-    public ProyectoBackendContext(DbContextOptions<ProyectoBackendContext > options) : base(options)
+    public ProyectoBackendContext(DbContextOptions<ProyectoBackendContext> options) : base(options)
     {
 
     }
